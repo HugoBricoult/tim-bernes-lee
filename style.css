@@ -1,0 +1,128 @@
+body {
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    background-color: #ebebeb;
+    margin-bottom: 40px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    justify-content: center;
+    padding: 30px;
+    box-shadow: 3px 3px 5px rgb(224, 224, 224);
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+}
+
+header img {
+    margin: auto;
+    width: 100px;
+    border: 3px solid #ebebeb;
+    border-radius: 100%;
+}
+
+header h1 {
+    margin: auto;
+    color: #dd5555;
+    margin-top: 20px;
+}
+
+header h2 {
+    margin: auto;
+    margin-top: 20px;
+}
+
+header p {
+    margin: auto;
+    margin-top: 20px;
+}
+
+header a {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    background-color: #dd5555;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    margin-top: 30px;
+    padding: 30px;
+    justify-content: center;
+    box-shadow: 3px 3px 5px rgb(224, 224, 224);
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.links ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 0;
+}
+
+.links li {
+    text-align: center;
+    padding: 15px;
+    list-style-type: none;
+    font-size: 20px;
+    color: lightgray;
+    line-height: 30px;
+}
+
+.links a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+.movies {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    margin-top: 30px;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 3px 3px 5px rgb(224, 224, 224);
+    color: gray;
+}
+
+.movies h2 {
+    margin: auto;
+}
+
+.movies section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.movies div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 20px;
+}
+
+.movies img {
+    margin: auto;
+    width: 100px;
+    padding: 20px;
+}
+
+.movies h3 {
+    text-align: center;
+}
