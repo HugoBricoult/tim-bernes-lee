@@ -1,4 +1,4 @@
-# tim-bernes-lee
+# tim-berners-lee
 
 Création d'un "one-pager" sur tim-bernes-lee sur base d'un [exercice becode](https://github.com/becodeorg/CRL-Keller-1-18/blob/master/Parcours/01-Prairie/4.HTML-CSS/3-exercice-summary.md)  
 
